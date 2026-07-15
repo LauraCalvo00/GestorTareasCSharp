@@ -39,7 +39,7 @@ Aplicación de consola desarrollada en C# que permite gestionar una lista de tar
 
 ## Captura de pantalla del menú
 
-![Menú principal](GestorTareas/images/screenshot-menu.png)
+![Menú principal](GestorTareas/images/screenshot-menu.PNG)
 
 
 
