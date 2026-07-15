@@ -44,8 +44,8 @@ Aplicación de consola desarrollada en C# que permite gestionar una lista de tar
 
 
 Próximas mejoras
-    Eliminar tareas.
-    Editar una tarea.
-    Añadir prioridades.
-    Añadir fechas límite.
-    Mejorar la interfaz de la aplicación de consola.
+- Eliminar tareas.
+- Editar una tarea.
+- Añadir prioridades.
+- Añadir fechas límite.
+- Mejorar la interfaz de la aplicación de consola.
